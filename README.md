@@ -1,7 +1,7 @@
 ⚡️ Elizbar // The Swift-Fueled Code Sorcerer 🧙‍♂️
 
 <div align="center">
-![alt text](https://ibb.co/fd6WtkMK)
+![Alt Text](https://ibb.co/fd6WtkMK)
 
 🚀 About Me (Send Help, I'm Trapped in Xcode)
 
