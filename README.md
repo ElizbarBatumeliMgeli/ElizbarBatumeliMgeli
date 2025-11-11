@@ -1,8 +1,7 @@
 ⚡️ Elizbar // The Swift-Fueled Code Sorcerer 🧙‍♂️
 
 <div align="center">
-<img src="https://ibb.co/fd6WtkMK" alt="A cool banner image that says Wassup I Code in Swift, highlighting the development focus." />
-</div>
+![alt text](https://ibb.co/fd6WtkMK)
 
 🚀 About Me (Send Help, I'm Trapped in Xcode)
 
